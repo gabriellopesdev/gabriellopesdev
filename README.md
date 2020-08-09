@@ -1,14 +1,12 @@
 ### :) 👋
 
-<img width="auto" src="https://github.com/gabriellopesdev.png">
-
 # Gabriel Lopes
 
 ## Olá pessoal 👋
 Sou apaixonado por levar soluções através da programação e aprender bastante no processo!
 Sou um FullStack Developer :computer:
 
- &nbsp; Estou trabalhando na **Proansi Tecnologia** desenvolvendo API's, soluções mobile e desktop
+ <br/> :computer: &nbsp; Estou trabalhando na **Proansi Tecnologia** desenvolvendo API's, soluções mobile e desktop
  <br/> :heavy_plus_sign: &nbsp; Buscando colaborar com projetos em Delphi e Javascript/Typescript
  <br/> :thought_balloon: &nbsp; Venho me desenvolvendo na stack com ReactJS, Node.js, React Native & Typescript
  <br/> :computer: &nbsp; Minha stack atual: Delphi, Node.js & Javascript/Typescript
